@@ -1,3 +1,3 @@
-print("Hello World")
-print("Welcome to the Repository")
-print("This change is to test the git webHook trigger")
+inp1 = int(input())
+inp2 = int(input())
+print("the sum is :", inp1+inp2)
